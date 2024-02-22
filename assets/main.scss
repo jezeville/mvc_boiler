@@ -1,0 +1,11 @@
+@import './utils/reset';
+@import './utils/variable';
+
+header {
+    display: flex;
+    flex-direction: row;
+    gap: 2vw;
+    align-items: center;
+    justify-content: center;
+    margin: 2% auto;
+}
